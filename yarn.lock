@@ -1056,6 +1056,11 @@ angular@1.6.10, angular@>=1.5, angular@>=1.5.0, angular@^1.4.0:
   resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.10.tgz#eed3080a34d29d0f681ff119b18ce294e3f74826"
   integrity sha512-PCZ5/hVdvPQiYyH0VwsPjrErPHRcITnaXxhksceOXgtJeesKHLA7KDu4X/yvcAi+1zdGgGF+9pDxkJvghXI9Wg==
 
+angular@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.0.tgz#b1ec179887869215cab6dfd0df2e42caa65b1b51"
+  integrity sha512-VdaMx+Qk0Skla7B5gw77a8hzlcOakwF8mjlW13DpIWIDlfqwAbSSLfd8N/qZnzEmQF4jC4iofInd3gE7vL8ZZg==
+
 angulartics-google-analytics@^0.2.0:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/angulartics-google-analytics/-/angulartics-google-analytics-0.2.1.tgz#85c841e35bbb6a2d5a3d10a17cdb71b2f2ca14bc"
